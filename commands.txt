@@ -13,3 +13,5 @@ git status [list untracked files]
 git add -A [add all untracked files]
 
 git commit -m "message" []
+
+git branch [list all branches]
